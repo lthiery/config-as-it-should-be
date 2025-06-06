@@ -1,0 +1,6 @@
+[gateway]
+# The address the gateway will listen on
+address = "localhost"
+
+# The port number for the gateway (1-65535)
+port = 8080
